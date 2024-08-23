@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Kyle, a Game Designer and Software Engineer!
 <!--
 **KyleMcMullin/KyleMcMullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
