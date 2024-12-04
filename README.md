@@ -1,5 +1,7 @@
 ## Hi there 👋
 I'm Kyle, a Game Designer and Software Engineer!
+
+Check out my portfolio to learn more about me: https://kylemcmullin.com
 <!--
 **KyleMcMullin/KyleMcMullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
